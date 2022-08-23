@@ -7,6 +7,10 @@ last_modified: '2022-08-08T09:36:36.731820'
 parser: null
 source_metadata:
   title: ཐུན་མོང་གི་རྩ་བ།
+  base:
+    46A7:
+      title: ཐུང་མོང་གི་རྩ་བ།
+      base_file: 46A7.txt
 statistics: {}
 quality: {}
 copyright:
